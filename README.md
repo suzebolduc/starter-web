@@ -11,6 +11,8 @@ total bullshit how many times he's editing the same fucking file
 
 ## How to Contribute
 
+Please fork the repository
+
 ##Deployment
 
 more crap
