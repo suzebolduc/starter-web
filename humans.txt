@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Suze Bolduc -- Sr Test automation dev -- <twitter>
 
 # THANKS
 
