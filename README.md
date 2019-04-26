@@ -14,3 +14,6 @@ total bullshit how many times he's editing the same fucking file
 ##Deployment
 
 more crap
+
+### Copyright
+copyright 2019
